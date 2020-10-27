@@ -22,9 +22,7 @@
 
 ### Most Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyungraeNoh)](https://github.com/HyungraeNoh/HyungraeNohs&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyungraeNoh&layout=compact)](https://github.com/HyungraeNoh/HyungraeNoh&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyungraeNoh)](https://github.com/HyungraeNoh/HyungraeNohs&theme=radical) [![Left Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyungraeNoh&layout=compact)](https://github.com/HyungraeNoh/HyungraeNoh&theme=radical)
 
 
 ## Total Commit
