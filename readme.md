@@ -25,7 +25,7 @@
 
 ![HyungraeNoh's github stats](https://github-readme-stats.vercel.app/api?username=HyungraeNoh&show_icons=true&theme=radical)![HyungraeNoh's github stats](https://github-readme-stats.vercel.app/api?username=HyungraeNoh&include_all_commits=true&theme=radical)
 
-### Most Languages
+## Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyungraeNoh)](https://github.com/HyungraeNoh/HyungraeNohs&theme=radical) [![Left Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyungraeNoh&layout=compact)](https://github.com/HyungraeNoh/HyungraeNoh&theme=radical)
 
