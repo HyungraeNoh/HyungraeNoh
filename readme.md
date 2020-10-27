@@ -23,64 +23,21 @@
   </a>
 </p>
 
-  <p align="center">
-    <a href="#데모">View Demo</a>
-    ·
-    <a href="https://github.com/HyungraeNoh/HyungraeNoh/issues/new/choose">Report Bug</a>
-    ·
-    <a href="https://github.com/HyungraeNoh/HyungraeNoh/issues/new/choose">Request Feature</a>
-  </p>
-  <p align="center">
-    <a href="/docs/readme_fr.md">Français</a>
-    ·
-    <a href="/docs/readme_cn.md">简体中文</a>
-    ·
-    <a href="/docs/readme_es.md">Español</a>
-    ·
-    <a href="/docs/readme_de.md">Deutsch</a>
-    ·
-    <a href="/docs/readme_ja.md">日本語</a>
-    ·
-    <a href="/docs/readme_pt-BR.md">Português Brasileiro</a>
-    ·
-    <a href="/docs/readme_it.md">Italiano</a>
-    ·
-    <a href="/docs/readme_kr.md">한국어</a>
-  </p>
-</p>
-
-### TEST
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HyungraeNoh&repo=HyungraeNoh)](https://github.com//HyungraeNoh/HyungraeNoh)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HyungraeNoh&repo=HyungraeNoh&show_owner=true)](https://github.com/HyungraeNoh/HyungraeNoh)
+---
+<!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HyungraeNoh&repo=HyungraeNoh&show_owner=true)](https://github.com/HyungraeNoh/HyungraeNoh) -->
 
 ### Most Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyungraeNoh)](https://github.com/HyungraeNoh/HyungraeNohs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyungraeNoh)](https://github.com/HyungraeNoh/HyungraeNohs&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyungraeNoh&layout=compact)](https://github.com/HyungraeNoh/HyungraeNoh)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyungraeNoh&layout=compact)](https://github.com/HyungraeNoh/HyungraeNoh&theme=radical)
 
----
 
 ## Total Commit
 ![HyungraeNoh's github stats](https://github-readme-stats.vercel.app/api?username=HyungraeNoh&show_icons=true&theme=radical)
 
-![HyungraeNoh's github stats](https://github-readme-stats.vercel.app/api?username=HyungraeNoh&include_all_commits=true)
-
-- 테마
+![HyungraeNoh's github stats](https://github-readme-stats.vercel.app/api?username=HyungraeNoh&include_all_commits=true&theme=radical)
 
 
-- Stats 카드 사용자 정의
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api/?username=HyungraeNoh&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
-- Repo 카드 사용자 정의
-
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=HyungraeNoh&repo=HyungraeNoh&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
-
-- 상위 언어
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyungraeNoh)](https://github.com/HyungraeNoh/HyungraeNoh)
-
----
 :point_right: :tag: Anurag Hazra git
