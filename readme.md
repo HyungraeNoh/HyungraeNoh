@@ -4,17 +4,17 @@
  <p align="center">동적으로 생성된 Github의 통계를 여러분의 README에 올려보세요!</p>
 </p>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats/actions">
-      <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
+    <a href="https://github.com/HyungraeNoh/HyungraeNoh/actions">
+      <img alt="Tests Passing" src="https://github.com/HyungraeNoh/HyungraeNoh/workflows/Test/badge.svg" />
     </a>
-    <a href="https://codecov.io/gh/anuraghazra/github-readme-stats">
-      <img src="https://codecov.io/gh/anuraghazra/github-readme-stats/branch/master/graph/badge.svg" />
+    <a href="https://codecov.io/gh/HyungraeNoh/HyungraeNoh">
+      <img src="https://codecov.io/gh/HyungraeNoh/HyungraeNoh/branch/master/graph/badge.svg" />
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/anuraghazra/github-readme-stats?color=0088ff" />
+    <a href="https://github.com/HyungraeNoh/HyungraeNoh/issues">
+      <img alt="Issues" src="https://img.shields.io/github/issues/HyungraeNoh/HyungraeNoh?color=0088ff" />
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/anuraghazra/github-readme-stats?color=0088ff" />
+    <a href="https://github.com/HyungraeNoh/HyungraeNoh/pulls">
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/HyungraeNoh/HyungraeNoh?color=0088ff" />
     </a>
     <br />
     <br />
@@ -29,9 +29,9 @@
   <p align="center">
     <a href="#데모">View Demo</a>
     ·
-    <a href="https://github.com/anuraghazra/github-readme-stats/issues/new/choose">Report Bug</a>
+    <a href="https://github.com/HyungraeNoh/HyungraeNoh/issues/new/choose">Report Bug</a>
     ·
-    <a href="https://github.com/anuraghazra/github-readme-stats/issues/new/choose">Request Feature</a>
+    <a href="https://github.com/HyungraeNoh/HyungraeNoh/issues/new/choose">Request Feature</a>
   </p>
   <p align="center">
     <a href="/docs/readme_fr.md">Français</a>
@@ -51,7 +51,7 @@
     <a href="/docs/readme_kr.md">한국어</a>
   </p>
 </p>
-<p align="center">이 프로젝트가 마음에 드나요? 괜찮으시다면 더 나은 개선을 위해 <a href="https://www.paypal.me/anuraghazra">기부</a>를 고려해주세요!
+<p align="center">이 프로젝트가 마음에 드나요? 괜찮으시다면 더 나은 개선을 위해 <a href="https://www.paypal.me/HyungraeNoh">기부</a>를 고려해주세요!
 
 # Features
 
@@ -69,7 +69,7 @@
 `?username=` 영역의 값은 당신의 Github 계정의 이름으로 바꿔주세요.
 
 ```md
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HyungraeNoh)](https://github.com/HyungraeNoh/HyungraeNoh)
 ```
 
 _참고: 순위는 사용자의 통계를 기반으로 계산됩니다. [src/calculateRank.js](../src/calculateRank.js) 참고_
@@ -81,7 +81,7 @@ _참고: 순위는 사용자의 통계를 기반으로 계산됩니다. [src/cal
 > 예시: `&hide=stars,commits,prs,issues,contribs`
 
 ```md
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HyungraeNoh&hide=contribs,prs)
 ```
 
 ### 총 커밋 수에 private 컨트리뷰트 개수 추가하기
@@ -93,7 +93,7 @@ _참고: 이 프로젝트를 직접 배포하는 경우 private 컨트리뷰트�
 > 예시: `&count_private=true`
 
 ```md
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HyungraeNoh&count_private=true)
 ```
 
 ### 아이콘 표기
@@ -101,7 +101,7 @@ _참고: 이 프로젝트를 직접 배포하는 경우 private 컨트리뷰트�
 아이콘을 활성화하려면 다음과 같이 `show_icons=true` 쿼리 파라미터를 사용하세요.
 
 ```md
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HyungraeNoh&show_icons=true)
 ```
 
 ### 테마
@@ -111,14 +111,14 @@ _참고: 이 프로젝트를 직접 배포하는 경우 private 컨트리뷰트�
 아래와 같이 `?theme=THEME_NAME` 파라미터를 사용하세요. :-
 
 ```md
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HyungraeNoh&show_icons=true&theme=radical)
 ```
 
 #### 모든 내장된 테마 :-
 
 dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
 
-<img src="https://res.cloudinary.com/anuraghazra/image/upload/v1595174536/grs-themes_l4ynja.png" alt="GitHub Readme Stat Themes" width="600px"/>
+<img src="https://res.cloudinary.com/HyungraeNoh/image/upload/v1595174536/grs-themes_l4ynja.png" alt="GitHub Readme Stat Themes" width="600px"/>
 
 [사용 가능한 모든 테마](../themes/README.md)의 미리보기와 [테마 설정 파일](../themes/index.js)을 확인할 수 있습니다. 괜찮으시다면 **새로운 테마를 만드셔서, 코드를 기여** 해주세요 :D
 
